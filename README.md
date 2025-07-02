@@ -29,22 +29,15 @@ Follow these steps to run the project on your local machine:
 git clone https://github.com/KishorDhamodkar/react-machine-test-deployment.git
 
 2. Navigate into the project directory
-bash
-Copy
-Edit
 cd react-machine-test-deployment
+
 3. Install dependencies
 Make sure you have Node.js and npm installed, then run:
-
-bash
-Copy
-Edit
 npm install
+
 4. Start the development server
-bash
-Copy
-Edit
 npm run dev
+
 Once started, open your browser and go to:
 👉 http://localhost:5173
 
