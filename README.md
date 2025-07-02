@@ -14,7 +14,7 @@ This is a front-end React application built using **Vite**. The project was deve
 
 - ⚛️ React
 - ⚡ Vite
-- 💅 CSS Modules (if used)
+- 💅 CSS Modules
 - 🌐 Deployed on [Vercel](https://vercel.com)
 
 ---
@@ -27,7 +27,7 @@ Follow these steps to run the project on your local machine:
 
 ```bash
 git clone https://github.com/KishorDhamodkar/react-machine-test-deployment.git
-
+```
 2. Navigate into the project directory
 cd react-machine-test-deployment
 
