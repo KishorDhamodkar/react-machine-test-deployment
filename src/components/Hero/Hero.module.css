@@ -1,0 +1,39 @@
+.heroContainer {
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  margin-top: 240px;
+  margin-bottom: 150px;
+}
+
+.heroHeading {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 65px;
+  letter-spacing: -2px;
+  text-align: center;
+  font-weight: bold;
+  color:#02073E;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.heroButton {
+  padding: 10px 20px;
+  background-color: #ffefe5;
+  color: #f97316;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.heroButton:hover {
+  transform: scale(1.05);
+}

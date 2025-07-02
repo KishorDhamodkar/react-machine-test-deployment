@@ -1,0 +1,66 @@
+.cardContainer {
+  width: 447px;
+  height: 445px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.cardImage {
+  width: 447px;
+  height: 260px;
+}
+.ratingWrapper {
+  width: 235px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+    padding: 0 10px;
+
+}
+
+.ratingWrapper p {
+  font-family: DM Sans;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  letter-spacing: 0px;
+  vertical-align: middle;
+  color: #0f2137;
+}
+
+.ratingWrapper img {
+  height: 16px;
+}
+
+.cardTitle {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #0f2137;
+    padding: 10px;
+
+}
+
+.studentWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+    padding: 0 10px;
+
+}
+
+.studentWrapper img {
+  height: 20px;
+}
+.studentWrapper h4 {
+  font-family: DM Sans;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #343d48;
+}

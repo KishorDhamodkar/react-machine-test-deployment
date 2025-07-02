@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tutorialSection {
+  margin-top: 110px;
+  width: 1401px;
+  height: 595px;
+  background: #fff;
+}
+
+.tutorialSection p {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 40px;
+  letter-spacing: 2.1px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ef9e48;
+}
+
+.tutorialSection h2 {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  text-align: center;
+  color: #0f2137;
+}
+
+.cardWrapper{
+    padding-top: 50px;
+    display: flex;
+    gap: 30px;
+}

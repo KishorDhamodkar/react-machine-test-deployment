@@ -1,0 +1,254 @@
+.wrapperContainer {
+  display: flex;
+}
+
+.cardDiv {
+  margin-left: 400px;
+  margin-top: 173px;
+  display: flex;
+  flex-direction: row;
+  gap: 45px;
+}
+
+.rowOne {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.rowTwo {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  width: 300px;
+  height: 320px;
+  margin-top: 67px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center; 
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.cardHeading {
+  width: 178px;
+  height: 55px;
+}
+
+.cardHeading h2 {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  text-align: center;
+  color: #ef9e48;
+}
+
+.cardTitle {
+  width: 165px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.cardTitle p {
+  font-family: DM Sans;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: -0.5px;
+  text-align: center;
+  color: #0f2137d3;
+}
+
+.card2 {
+  width: 300px;
+  height: 320px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; /* stack items vertically */
+  align-items: center; /* center horizontally */
+  justify-content: center; /* center vertically */
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  margin-top: 45px;
+}
+
+.cardHeading2 {
+  width: 178px;
+  height: 55px;
+}
+
+.cardHeading2 h2 {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  text-align: center;
+  color: #fa578e;
+}
+
+.cardTitle2 {
+  width: 165px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.cardTitle2 p {
+  font-family: DM Sans;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: -0.5px;
+  text-align: center;
+  color: #0f2137d3;
+}
+
+.card3 {
+  width: 300px;
+  height: 320px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  margin-top: 45px;
+}
+
+.cardHeading3 {
+  width: 178px;
+  height: 55px;
+}
+
+.cardHeading3 h2 {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  text-align: center;
+  color: #ff753a;
+}
+
+.cardTitle3 {
+  width: 165px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.cardTitle3 p {
+  font-family: DM Sans;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: -0.5px;
+  text-align: center;
+  color: #0f2137d3;
+}
+
+.card4 {
+  width: 300px;
+  height: 320px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  margin-top: 45px;
+}
+
+.cardHeading4 {
+  width: 178px;
+  height: 55px;
+}
+
+.cardHeading4 h2 {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  text-align: center;
+  color: #e682ff;
+}
+
+.cardTitle4 {
+  width: 165px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.cardTitle4 p {
+  font-family: DM Sans;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: -0.5px;
+  text-align: center;
+  color: #0f2137d3;
+}
+
+.rowThree {
+  margin-top: 200px;
+}
+
+.coreFeature {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 40px;
+  letter-spacing: 2.1px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #ef9e48;
+}
+
+.titleWrapper {
+  width: 480px;
+  height: 154px;
+  margin-top: 8px;
+}
+
+.featureTitle {
+  font-family: DM Sans;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  color: #0f2137;
+}
+
+.descriptionWrapper {
+  margin-top: 40px;
+  width: 454px;
+  height: 166px;
+}
+
+.featureDescription {
+  font-family: DM Sans;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #02073e;
+}
+
+.detailsButton {
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  font-family: DM Sans;
+  font-weight: 700;
+  letter-spacing: -0.16px;
+  color: #EF9E48;
+  background-color: #FCF2E8;
+  border: none;
+}
+
+.detailsButton:hover{
+    background-color: #ffdcba;
+}
